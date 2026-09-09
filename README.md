@@ -6,7 +6,7 @@
 /_/ /_/\___/_/_/\____/
 ```
 
-I'm Pablo. I design and build interactive installations, websites, and sometimes lamps.
+I'm Pablo. I design and build interactive installations, websites, apps, and sometimes lamps that run apps.
 
 Studio Studio is my creative tech practice in Brooklyn, where I work across experiential activations and light based mediums in certain capacities from creative or techincal direction to makling the actual sausage
 
