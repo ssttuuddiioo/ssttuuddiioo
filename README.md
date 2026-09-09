@@ -1,4 +1,9 @@
-# Pablo Gnecco
+    __         ____    
+   / /_  ___  / / /___ 
+  / __ \/ _ \/ / / __ \
+ / / / /  __/ / / /_/ /
+/_/ /_/\___/_/_/\____/ 
+                       
 
 Studio Studio is my creative tech practice. Experiential direction, creative
 technology, and light. Colombian born. The commercial work funds the artwork,
