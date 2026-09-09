@@ -6,9 +6,15 @@
 /_/ /_/\___/_/_/\____/
 ```
 
-Studio Studio is my creative tech practice. Experiential direction, creative
-technology, and light. Colombian born. The commercial work funds the artwork,
-and the artwork keeps the commercial work honest.
+I'm Pablo. I build rooms that notice you're in them.
+
+Studio Studio is my practice in Brooklyn — experiential direction, creative
+technology, and light. Born in Bogotá, still fluent in both. Most of what I
+make is physical, temporary, and a little over-engineered: installations that
+have to survive a month of strangers touching them.
+
+The commercial work funds the artwork, and the artwork keeps the commercial
+work honest.
 
 [studiostudio.nyc](https://studiostudio.nyc) · [yopablo.com](https://yopablo.com) · [@yopablo](https://instagram.com/yopablo) · [say hello](https://studiostudio.nyc/contact)
 
@@ -25,6 +31,4 @@ orgs       NEW INC (inaugural) · Mana Contemporary · NYU ITP · Steve Jobs Arc
 cities     New York · London · Bogotá
 ```
 
----
-
-
+If you made it this far, you should probably [say hello](https://studiostudio.nyc/contact).
