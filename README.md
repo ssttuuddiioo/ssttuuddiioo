@@ -12,7 +12,7 @@ Studio Studio is my creative tech practice in Brooklyn, where I work across expe
 
 I was an innaugural member of the New Museum's Incubator, NEWINC, in 2015 where I founded Studio–Studio as a way to create exciting immersive work that would then fund artworks. The name has always been grounded by art x tech.
 
-[studiostudio.nyc](https://studiostudio.nyc) ·  [@yopablo](https://instagram.com/yopablo) · [say hello](https://studiostudio.nyc/contact)
+[studiostudio.nyc](https://studiostudio.nyc) ·  [@yopablo](https://instagram.com/yopablo) · 
 
 Open to work, commissions, collaborations, and the occasional impossible deadline :)
 
@@ -27,3 +27,4 @@ orgs       NEW INC (inaugural) · Mana Contemporary · NYU ITP · Steve Jobs Arc
 cities     New York · London · Bogotá
 ```
 
+[say hello](https://studiostudio.nyc/contact)
