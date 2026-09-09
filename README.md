@@ -10,6 +10,10 @@ Studio Studio is my creative tech practice. Experiential direction, creative
 technology, and light. Colombian born. The commercial work funds the artwork,
 and the artwork keeps the commercial work honest.
 
+[studiostudio.nyc](https://studiostudio.nyc) · [yopablo.com](https://yopablo.com) · [@yopablo](https://instagram.com/yopablo) · [say hello](https://studiostudio.nyc/contact)
+
+Open to work, commissions, collaborations, and the occasional impossible deadline.
+
 ```
 practice   installations · activations · exhibitions · interactive environments
 light      LED + DMX/sACN · pixel mapping · show control · projection mapping · media servers
@@ -23,6 +27,4 @@ cities     New York · London · Bogotá
 
 ---
 
-[studiostudio.nyc](https://studiostudio.nyc) · [yopablo.com](https://yopablo.com) · [@yopablo](https://instagram.com/yopablo) · [say hello](https://studiostudio.nyc/contact)
 
-Open to work, commissions, collaborations, and the occasional impossible deadline.
