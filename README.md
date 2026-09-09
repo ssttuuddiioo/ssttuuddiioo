@@ -6,15 +6,12 @@
 /_/ /_/\___/_/_/\____/
 ```
 
-I'm Pablo. I build rooms that notice you're in them.
+I'm Pablo. I design and build interactive installations, websites, and sometimes lamps.
 
-Studio Studio is my practice in Brooklyn — experiential direction, creative
-technology, and light. Born in Bogotá, still fluent in both. Most of what I
-make is physical, temporary, and a little over-engineered: installations that
-have to survive a month of strangers touching them.
+Studio Studio is my practice in Brooklyn, I work across experiential direction, creative
+technology, rapid prototyping, light based mediums, digital art, etc. 
 
-The commercial work funds the artwork, and the artwork keeps the commercial
-work honest.
+I was an innaugural member of the New Museum's Incubator, NEWINC, in 2015 where I founded Studio Studio as a way to create exciting immersive work in collaboration that could then fund personal artworks. The name has had many meanings but it's always been about art x tech 
 
 [studiostudio.nyc](https://studiostudio.nyc) · [yopablo.com](https://yopablo.com) · [@yopablo](https://instagram.com/yopablo) · [say hello](https://studiostudio.nyc/contact)
 
