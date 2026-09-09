@@ -1,8 +1,6 @@
 # Pablo Gnecco
 
-I build rooms that notice you're in them.
-
-Studio Studio is my practice in Brooklyn — experiential direction, creative
+Studio Studio is my creative tech practice. Experiential direction, creative
 technology, and light. Colombian born. The commercial work funds the artwork,
 and the artwork keeps the commercial work honest.
 
