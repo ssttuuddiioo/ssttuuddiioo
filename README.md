@@ -8,13 +8,13 @@
 
 I'm Pablo. I design and build interactive installations, websites, apps, and sometimes lamps that run apps.
 
-Studio Studio is my creative tech practice in Brooklyn, where I work across experiential activations and light based mediums in certain capacities from creative or techincal direction to makling the actual sausage
+Studio Studio is my creative tech practice in Brooklyn, where I work across experiential activations and light based mediums in different capacities from creative or techincal direction to making the actual sausage.
 
-I was an innaugural member of the New Museum's Incubator, NEWINC, in 2015 where I founded Studio Studio as a way to create exciting immersive work that could then fund personal artworks. The name has had many meanings but it's always been grounded by art x tech 
+I was an innaugural member of the New Museum's Incubator, NEWINC, in 2015 where I founded Studio–Studio as a way to create exciting immersive work that would then fund artworks. The name has always been grounded by art x tech.
 
 [studiostudio.nyc](https://studiostudio.nyc) ·  [@yopablo](https://instagram.com/yopablo) · [say hello](https://studiostudio.nyc/contact)
 
-Open to work, commissions, collaborations, and the occasional impossible deadline.
+Open to work, commissions, collaborations, and the occasional impossible deadline :)
 
 ```
 practice   installations · activations · exhibitions · interactive environments
